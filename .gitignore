@@ -1,0 +1,16 @@
+bin/
+obj/
+.venv/
+__pycache__/
+.pytest_cache/
+.coverage
+.env
+.env.*
+!.env.example
+*.py[cod]
+*.log
+.DS_Store
+.vscode/
+.idea/
+ml-service/artifacts/*.joblib
+!ml-service/artifacts/.gitkeep
