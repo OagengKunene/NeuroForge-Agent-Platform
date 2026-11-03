@@ -61,4 +61,4 @@ app.MapPost("/api/ml/predict", async (MlPredictionRequest request, MlInferenceCl
 
 app.Run();
 
-public partial class Program;
+public partial class Program { }
