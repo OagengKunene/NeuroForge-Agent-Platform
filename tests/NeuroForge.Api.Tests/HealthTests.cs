@@ -1,4 +1,6 @@
 using System.Net;
+using System.Net.Http.Json;
+using Xunit;
 using Microsoft.AspNetCore.Mvc.Testing;
 
 namespace NeuroForge.Api.Tests;
